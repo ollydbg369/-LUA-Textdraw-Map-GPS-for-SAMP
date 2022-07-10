@@ -9,6 +9,6 @@ Este mod nos muestra un minimapa en el juego que muestra la ubicación de nuestr
 * /mapconfig : Abre el menú de configuración del mod que permite cambiar la tecla de abrir el mapa y las id de los textdraw que utiliza el mapa
 * /mapicons : Nos permite agregar iconos al Mapa GPS, los iconos son leidos desde el archivo hud.txd\
 ### Agregando un Icono al Mapa
-Abrimos el menú con el comando **/mapicons** y seleccionamos la opción + Agregar nuevo\
+Abrimos el menú con el comando **/mapicons** y seleccionamos la opción **+ Agregar nuevo**\
 ![](https://i.ibb.co/5WQyGX5/men.png)
 # Video
