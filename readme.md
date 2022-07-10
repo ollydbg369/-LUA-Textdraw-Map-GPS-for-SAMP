@@ -18,5 +18,6 @@ Seleccionamos un icono de la lista. en total hay 63 iconos y son leidos desde el
 ![](https://i.ibb.co/89pS1Tx/icons.png)\
 Por último ingresamos el ID del textdraw [0-2304] debemos evitar repetirlo por los que reserva el mapa gps o otros que hemos agregado en la lista\
 ![](https://i.ibb.co/8K8BL1T/textdraw.png)\
-Los id de los iconos que agreguemos al mapa deben ser mayor que la id del mapa de lo contrario no se agregara y nos que la id debe ser mayor\
+Los id de los iconos que agreguemos al mapa deben ser mayor que la id del mapa de lo contrario no se agregara y nos dira que la id debe ser mayor\
+![](https://i.ibb.co/JFdQwLf/error.png)\
 # Video
