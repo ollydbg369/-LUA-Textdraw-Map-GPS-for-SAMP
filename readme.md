@@ -12,6 +12,8 @@ Este mod nos muestra un minimapa en el juego que muestra la ubicación de nuestr
 Abrimos el menú con el comando **/mapicons** y seleccionamos la opción **+ Agregar nuevo**\
 \
 ![](https://i.ibb.co/5WQyGX5/men.png)\
-Nos abrira este dialogo en donde debemos ingresar un nombre para el icono que se agregara a la lista y asi podamos diferenciarlo de otros\
-![](https://i.ibb.co/4PsWPpx/textmap.png)
+Se abrira este dialogo en donde debemos ingresar un nombre para el icono que se agregara a la lista y asi podamos diferenciarlo de otros\
+![](https://i.ibb.co/4PsWPpx/textmap.png)\
+Seleccionamos un icono de la lista, en total hay 63 iconos y son leidos desde el archivo **hud.txt**\
+![](https://i.ibb.co/89pS1Tx/icons.png)\
 # Video
