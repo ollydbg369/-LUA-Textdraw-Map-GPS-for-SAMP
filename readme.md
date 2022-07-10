@@ -16,4 +16,6 @@ Se abrira este dialogo en donde debemos ingresar un nombre para el icono que se 
 ![](https://i.ibb.co/zJLv42W/gas.png)\
 Seleccionamos un icono de la lista. en total hay 63 iconos y son leidos desde el archivo **hud.txt**\
 ![](https://i.ibb.co/89pS1Tx/icons.png)\
+Por último ingresamos el ID del textdraw [0-2304] debemos evitar repetirlo por los que reserva el mapa gps o otros que hemos agregado en la lista\
+![](https://i.ibb.co/8K8BL1T/textdraw.png)\
 # Video
