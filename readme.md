@@ -1,6 +1,6 @@
 # Textdraw Mapa GPS para SAMP
 Este mod nos muestra un minimapa en el juego que muestra la ubicación de nuestro personaje, checkpoint y lugares que agreguemos
-![](https://i.ibb.co/wBkWyTY/samp.png)\
+![](https://i.ibb.co/zsphByW/samp2.png)\
 ##### Funciones:
 * Menú de configuración para cambiar las id de los textdraw y la tecla para abrir el mapa
 * Menú de agregar iconos para agregar iconos del hud.txd al mapa gps
