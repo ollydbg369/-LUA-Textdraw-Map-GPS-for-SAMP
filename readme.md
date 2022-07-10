@@ -22,4 +22,6 @@ Los id de los iconos que agreguemos al mapa deben ser mayor que la id del mapa d
 ![](https://i.ibb.co/JFdQwLf/error.png)\
 Y en el caso de que el id este en uso por el servidor o ya este en la lista nos dira\
 ![](https://i.ibb.co/Bfw4bcH/error2.png)\
+Si lo hicimos bien nos aparecera\
+![](https://i.ibb.co/hLBfvcb/exito.png)\
 # Video
