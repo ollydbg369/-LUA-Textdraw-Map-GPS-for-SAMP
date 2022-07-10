@@ -20,4 +20,6 @@ Por último ingresamos el ID del textdraw [0-2304] debemos evitar repetirlo por 
 ![](https://i.ibb.co/8K8BL1T/textdraw.png)\
 Los id de los iconos que agreguemos al mapa deben ser mayor que la id del mapa de lo contrario no se agregara y nos dira que la id debe ser mayor\
 ![](https://i.ibb.co/JFdQwLf/error.png)\
+Y en el caso de que el id este en uso por el servidor o ya este en la lista no dira\
+![](https://i.ibb.co/Bfw4bcH/error2.png)\
 # Video
