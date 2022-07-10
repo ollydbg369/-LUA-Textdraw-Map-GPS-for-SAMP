@@ -6,4 +6,3 @@ Este mod nos muestra un minimapa en el juego que muestra la ubicación de nuestr
 # Instrucciones de uso
 
 # Video
-[![Watch the video](https://img.youtube.com/vi/auYZCkpPGHQ/maxresdefault.jpg)](https://youtu.be/auYZCkpPGHQ)
