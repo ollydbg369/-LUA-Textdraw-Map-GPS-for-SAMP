@@ -2,7 +2,7 @@
 Este mod nos muestra un minimapa en el juego que muestra la ubicación de nuestro personaje y checkpoint
 
 * Menú de configuración para cambiar las id de los textdraw y la tecla para abrir el mapa
-* Menú de agregar iconos para agregar iconos al mapa gps
+* Menú de agregar iconos para agregar iconos del hud.txd al mapa gps
 
 # Instrucciones de uso
 Tecla: M : Abre y cierra el Mapa GPS, esta tecla se puede cambiar en el menú de configuración\
